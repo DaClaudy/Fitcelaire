@@ -7,9 +7,8 @@ uvicorn
 # datetime
 # pytz
 # plotly
-pandas
-numpy
 # pandas_datareaderstreamlit
+streamlit
 streamlit_option_menu
 yfinance
 pandas_ta
